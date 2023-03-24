@@ -37,14 +37,13 @@ Initially our db has two rows, let's delete row with id = 123, enter 123 into id
 
 ![image](https://user-images.githubusercontent.com/52740449/227536436-6d730f2c-2ffc-4fca-9d18-b43cbf7a37fc.png)
 
-The row with id 123 is also removed from the database.
-
-![image](https://user-images.githubusercontent.com/52740449/227538747-f5d8bdd0-0d3b-4c55-a7a6-4d2bee806857.png)
-
-
 We have sucessfully removed the course with id 123.
 
 ![image](https://user-images.githubusercontent.com/52740449/227536629-a8df955b-2450-4519-a5cb-6dde1df7e821.png)
+
+The row with id 123 is also removed from the database.
+
+![image](https://user-images.githubusercontent.com/52740449/227538747-f5d8bdd0-0d3b-4c55-a7a6-4d2bee806857.png)
 
 ### 2.3 GET Request 
 
