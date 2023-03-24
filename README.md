@@ -41,3 +41,24 @@ We have sucessfully removed the course with id 123.
 
 ![image](https://user-images.githubusercontent.com/52740449/227536629-a8df955b-2450-4519-a5cb-6dde1df7e821.png)
 
+### 2.3 GET Request 
+
+Let's test out the GET request for particular rows with id 456. Initially our DB contains two rows. 
+
+![image](https://user-images.githubusercontent.com/52740449/227537191-bd314284-887b-47fd-a3b7-d605497dfc6e.png)
+
+Enter 456 into the id field and click on Search by id button.
+
+![image](https://user-images.githubusercontent.com/52740449/227537389-adec8fdd-94e6-4910-9ed9-421fb3d66648.png)
+
+Let's test out for getting courses with same name.
+
+Initially our database has 3 rows, with same name as 'my pentos'. Let's search for that course.
+
+![image](https://user-images.githubusercontent.com/52740449/227537903-9c0ef2fe-f447-40b6-9ff1-1ec14cc1bf31.png)
+
+Enter my pentos and click on search by name.
+
+![image](https://user-images.githubusercontent.com/52740449/227538068-be4e3d7b-1f75-464b-97ca-0eeb65fcb336.png)
+
+
